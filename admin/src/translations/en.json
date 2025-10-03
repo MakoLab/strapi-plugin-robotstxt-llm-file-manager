@@ -1,0 +1,22 @@
+{
+    "plugin.name": "Menadżer Akcji",
+    "settings": "Ustawienia",
+    "sync.button1": "Synchronizuj BackendPwn",
+    "sync.button1.success": "Synchronizacja BackendPwn wysłana pomyślnie",
+    "sync.button1.error": "Nie udało się wykonać synchronizacji BackendPwn",
+    "sync.description1": "Synchronizuje Backend (SJP) z API Szukajka.",
+    "sync.button2": "Synchronizuj Autocomplete",
+    "sync.button2.success": "Synchronizacja Autocomplete wysłana pomyślnie",
+    "sync.button2.error": "Nie udało się wykonać synchronizacji Autocomplete",
+    "sync.description2": "Synchronizuje Autocomplete z API Szukajka.",
+    "sync.button3": "Synchronizuj Krzyżówki",
+    "sync.button3.success": "Synchronizacja Krzyżówek wysłana pomyślnie",
+    "sync.button3.error": "Nie udało się wykonać synchronizacji Krzyżówek",
+    "sync.description3": "Synchronizuje Krzyżówki z API Szukajka.",
+    "sync.button4": "Wymuś Przebudowę Strony",
+    "sync.button4.success": "Wymuszenie przebudowy strony wysłane pomyślnie",
+    "sync.button4.error": "Nie udało się wykonać wymuszenia przebudowy strony",
+    "sync.description4": "Wymusza pełną przebudowę strony internetowej.",
+    "sync.instructions": "Użyj przycisków poniżej, aby wywołać różne akcje synchronizacji i przebudowy. Upewnij się, że poprawnie skonfigurowałeś zmienne środowiskowe.",
+    "alert.close": "Zamknij"
+}
