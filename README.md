@@ -1,7 +1,7 @@
 
 # robots-lllm-manager
 
-robots-lllm-manager is a Strapi plugin designed to help you automatically generate and manage `robots.txt` files and LLM (Large Language Model). It enables flexible control over web crawling rules and advanced AI-powered content processing within your Strapi project.
+robots-lllm-manager is a Strapi plugin designed to help you automatically generate and manage `robots.txt` files and LLM (Large Language Model) integrations. It enables flexible control over web crawling rules and advanced AI-powered content processing within your Strapi project.
 
 ## Table of Contents
 
